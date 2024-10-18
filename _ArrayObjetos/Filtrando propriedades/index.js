@@ -19,4 +19,4 @@ function filtrarPropriedades(obj, propriedadesPermitidas) {
 const propriedadesPermitidas = ['nome', 'sobrenome', 'sexo'];
 
 const pessoaFiltrada = filtrarPropriedades(pessoa, propriedadesPermitidas);
-console.log(pessoaFiltrada)
+console.log(pessoaFiltrada);
